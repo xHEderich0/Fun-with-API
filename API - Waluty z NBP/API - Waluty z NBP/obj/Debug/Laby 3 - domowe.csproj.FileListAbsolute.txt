@@ -1,0 +1,14 @@
+C:\Users\Ernest\source\repos\Laby 3 - domowe\Laby 3 - domowe\bin\Debug\Laby 3 - domowe.exe.config
+C:\Users\Ernest\source\repos\Laby 3 - domowe\Laby 3 - domowe\bin\Debug\Laby 3 - domowe.exe
+C:\Users\Ernest\source\repos\Laby 3 - domowe\Laby 3 - domowe\bin\Debug\Laby 3 - domowe.pdb
+C:\Users\Ernest\source\repos\Laby 3 - domowe\Laby 3 - domowe\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ernest\source\repos\Laby 3 - domowe\Laby 3 - domowe\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ernest\source\repos\Laby 3 - domowe\Laby 3 - domowe\obj\Debug\Laby 3 - domowe.csprojAssemblyReference.cache
+C:\Users\Ernest\source\repos\Laby 3 - domowe\Laby 3 - domowe\obj\Debug\Laby_3___domowe.Form1.resources
+C:\Users\Ernest\source\repos\Laby 3 - domowe\Laby 3 - domowe\obj\Debug\Laby_3___domowe.Form2.resources
+C:\Users\Ernest\source\repos\Laby 3 - domowe\Laby 3 - domowe\obj\Debug\Laby_3___domowe.Properties.Resources.resources
+C:\Users\Ernest\source\repos\Laby 3 - domowe\Laby 3 - domowe\obj\Debug\Laby 3 - domowe.csproj.GenerateResource.cache
+C:\Users\Ernest\source\repos\Laby 3 - domowe\Laby 3 - domowe\obj\Debug\Laby 3 - domowe.csproj.CoreCompileInputs.cache
+C:\Users\Ernest\source\repos\Laby 3 - domowe\Laby 3 - domowe\obj\Debug\Laby 3 - domowe.csproj.CopyComplete
+C:\Users\Ernest\source\repos\Laby 3 - domowe\Laby 3 - domowe\obj\Debug\Laby 3 - domowe.exe
+C:\Users\Ernest\source\repos\Laby 3 - domowe\Laby 3 - domowe\obj\Debug\Laby 3 - domowe.pdb

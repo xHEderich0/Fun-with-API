@@ -1,0 +1,14 @@
+C:\Users\Ernest\source\repos\API - Waluty z NBP\API - Waluty z NBP\obj\Debug\API - Waluty z NBP.csproj.AssemblyReference.cache
+C:\Users\Ernest\source\repos\API - Waluty z NBP\API - Waluty z NBP\obj\Debug\API__Waluty_z_NBP.Form1.resources
+C:\Users\Ernest\source\repos\API - Waluty z NBP\API - Waluty z NBP\obj\Debug\API__Waluty_z_NBP.Form2.resources
+C:\Users\Ernest\source\repos\API - Waluty z NBP\API - Waluty z NBP\obj\Debug\API___Waluty_z_NBP.Properties.Resources.resources
+C:\Users\Ernest\source\repos\API - Waluty z NBP\API - Waluty z NBP\obj\Debug\API - Waluty z NBP.csproj.GenerateResource.cache
+C:\Users\Ernest\source\repos\API - Waluty z NBP\API - Waluty z NBP\obj\Debug\API - Waluty z NBP.csproj.CoreCompileInputs.cache
+C:\Users\Ernest\source\repos\API - Waluty z NBP\API - Waluty z NBP\bin\Debug\API - Waluty z NBP.exe.config
+C:\Users\Ernest\source\repos\API - Waluty z NBP\API - Waluty z NBP\bin\Debug\API - Waluty z NBP.exe
+C:\Users\Ernest\source\repos\API - Waluty z NBP\API - Waluty z NBP\bin\Debug\API - Waluty z NBP.pdb
+C:\Users\Ernest\source\repos\API - Waluty z NBP\API - Waluty z NBP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ernest\source\repos\API - Waluty z NBP\API - Waluty z NBP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ernest\source\repos\API - Waluty z NBP\API - Waluty z NBP\obj\Debug\API - Waluty z NBP.csproj.CopyComplete
+C:\Users\Ernest\source\repos\API - Waluty z NBP\API - Waluty z NBP\obj\Debug\API - Waluty z NBP.exe
+C:\Users\Ernest\source\repos\API - Waluty z NBP\API - Waluty z NBP\obj\Debug\API - Waluty z NBP.pdb

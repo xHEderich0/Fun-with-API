@@ -1,0 +1,5 @@
+http://api.nbp.pl/
+
+http://api.nbp.pl/api/exchangerates/rates/a/usd/?format=json
+
+https://docs.microsoft.com/en-us/dotnet/api/system.io.streamreader?view=net-5.0
